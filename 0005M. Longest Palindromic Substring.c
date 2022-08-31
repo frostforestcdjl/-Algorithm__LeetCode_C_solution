@@ -1,4 +1,4 @@
-// Runtime: 12 ms, faster than 88.10% of C online submissions for Longest Palindromic Substring.
+// Runtime: 11 ms, faster than 89.52% of C online submissions for Longest Palindromic Substring.
 // Memory Usage: 6 MB, less than 94.76% of C online submissions for Longest Palindromic Substring.
 
 typedef struct word {
